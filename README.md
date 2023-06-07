@@ -24,6 +24,7 @@ Based on following scenario, created a JMX file and created positive test cases 
 
 ## Command Promt
 -Command for generating HTML report:
+
 jmeter -n -t demo-transaction-api.jmx -l demo-transaction-api-log.csv -e -o Reports
 ![Powershell](https://github.com/mhm3990/demo-transaction-api-jmeter/assets/48542736/076525ca-e32b-4586-9aa0-0bd7736322dc)
 
